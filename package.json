@@ -1,0 +1,12 @@
+   {
+     "name": "my-music-bot",
+     "version": "1.0.0",
+     "main": "bot.js",
+     "scripts": {
+       "start": "node bot.js"
+     },
+     "dependencies": {
+       "axios": "^0.21.1",
+       "node-telegram-bot-api": "^0.51.0"
+     }
+   }
